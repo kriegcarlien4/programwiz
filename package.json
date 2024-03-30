@@ -1,0 +1,33 @@
+{
+  "name": "programwiz",
+  "version": "1.0.2",
+  "description": "programwiz",
+  "type": "module",
+  "main": "programwiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kriegcarlien4/programwiz"
+  },
+  "website": "https://github.com/kriegcarlien4/programwiz.git",
+  "keywords": [
+    "programwiz"
+  ],
+  "author": "kriegcarlien4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kriegcarlien4/programwiz/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/kriegcarlien4/programwiz#readme",
+  "dependencies": {
+    "codegeniuskit": "1.0.2",
+    "devcraftbox": "1.0.2",
+    "scriptmentor": "1.0.2"
+      }
+}
